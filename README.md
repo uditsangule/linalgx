@@ -27,6 +27,7 @@ The dependencies are listed in requirements.txt. You can install them using:
 ```bash
 pip install -r requirements.txt
 ```
+**Note: Here this package is made in such a way that no other external library other than latest - "numpy" , "numba" will be used.**
 
 ___
 
