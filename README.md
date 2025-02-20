@@ -10,6 +10,11 @@ ___
 - Easy-to-use API for mathematical and geometric operations
 
 ___
+## Upcomming:
+- New Shapes - Ovals, ellipse , Cones , Cubes
+- poly fitting of Shapes
+
+___
 ## Installation
 
 You can install **LinalgX** directly from GitHub:
